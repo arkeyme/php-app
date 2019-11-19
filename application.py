@@ -40,7 +40,7 @@ welcome = """
   <style>
   body {
     color: #ffffff;
-    background-color: #ffffff;
+    background-color: #E0E0E0;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
@@ -90,8 +90,9 @@ welcome = """
   }
 
   h1 {
-    font-size: 500%;
+    font-size: 800%;
     font-weight: normal;
+	color: green;
     margin-bottom: 0em;
   }
   h2 {
